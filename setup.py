@@ -14,7 +14,7 @@ setup(
     author_email="techrrb@gmail.com",
     packages=["src"],
     python_requires=">=3.7",
-    install_requires=[
+    install_requi1res=[
         "dvc",
         "tensorflow",
         "matplotlib",
